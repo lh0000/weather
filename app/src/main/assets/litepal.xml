@@ -7,8 +7,8 @@
 
     <list>
         <mapping class="com.example.lihan.coolweather.db.Province"/>
-        <mapping class="com.example.lihan.coolweather.db.County"/>
         <mapping class="com.example.lihan.coolweather.db.City"/>
+        <mapping class="com.example.lihan.coolweather.db.County"/>
     </list>
 
 </litepal>
